@@ -86,7 +86,7 @@ public class Homework2 {
          */
 
 
-        double number = 60;
+        int  number = 60;
 
         if (number % 3 == 0 && number % 5 == 0) {
             System.out.println("The number is divisible by both");
